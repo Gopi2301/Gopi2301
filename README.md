@@ -1,16 +1,15 @@
-### Hi there 👋
+# 👋 Hey, I'm Gopinath! 🚀  
 
-<!--
-**Gopi2301/Gopi2301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full-Stack Developer | 🧠 AI & SaaS Enthusiast | 🎙️ Interview Trainer  
 
-Here are some ideas to get you started:
+I'm a **full-stack web developer** with a passion for **building AI-driven tools** that make life easier. My goal? **Helping people ace their interviews** with **AI-powered training** and **realistic mock interviews**!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 What I Do:  
+- 🎙️ **AI Interview Trainer** – Building an **AI-powered platform** where users can practice interviews with **real-time voice conversion** and **AI-driven questions**.  
+- 🛠️ **Web & SaaS Development** – Creating scalable solutions using **React, Node.js, and MySQL**.  
+- 📈 **Tech & Productivity** – Sharing insights on **coding, startups, and self-improvement**.  
+
+## 🚀 My Tech Stack:  
+**Frontend:** React.js, Next.js, Tailwind CSS  
+**Backend:** Node.js, Express.js, CodeIgniter  
+**Database:** MySQL, MongoDB  

@@ -1,15 +1,26 @@
-# 👋 Hey, I'm Gopinath! 🚀  
+# Hi there 👋, I'm Gopinath  
 
-### 💻 Full-Stack Developer | 🧠 AI & SaaS Enthusiast | 🎙️ Interview Trainer  
+🚀 A passionate **Web Developer** who loves building modern full-stack applications and solving real-world problems with code.  
 
-I'm a **full-stack web developer** with a passion for **building AI-driven tools** that make life easier. My goal? **Helping people ace their interviews** with **AI-powered training** and **realistic mock interviews**!  
+### 💡 About Me  
+- 🔭 Currently building a **microSaaS AI tool** to help creators save time  
+- 🌱 Learning **Data Structures & Algorithms (JavaScript)** and **System Design**  
+- 💻 Skilled in **MERN stack** (MongoDB, Express, React, Node.js)  
+- 📊 Background in **Digital Marketing & Sales**, giving me a product + tech mindset  
+- 🏃 Outside coding, I enjoy **running** (recently completed my first 10K 🏅)  
 
-## 🔥 What I Do:  
-- 🎙️ **AI Interview Trainer** – Building an **AI-powered platform** where users can practice interviews with **real-time voice conversion** and **AI-driven questions**.  
-- 🛠️ **Web & SaaS Development** – Creating scalable solutions using **React, Node.js, and MySQL**.  
-- 📈 **Tech & Productivity** – Sharing insights on **coding, startups, and self-improvement**.  
+### 🛠️ Tech Stack  
+- **Frontend**: React, Next.js, HTML, CSS, JavaScript, TailwindCSS  
+- **Backend**: Node.js, Express.js, REST APIs  
+- **Database**: MongoDB, MySQL, PostgreSQL  
+- **DevOps & Tools**: Git, GitHub, Docker, Nginx  
+- **Other Interests**: AI, SaaS products, SEO
 
-## 🚀 My Tech Stack:  
-**Frontend:** React.js, Next.js, Tailwind CSS  
-**Backend:** Node.js, Express.js, CodeIgniter  
-**Database:** MySQL, MongoDB  
+  ### 📫 Connect With Me  
+- 🌐 [Portfolio](#) (coming soon)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/gopinathsmern/)  
+- 📧 Email: gopinath.s.dev@gmail.com  
+
+---
+
+⭐️ From [Gopinath](https://github.com/Gopi2301)
